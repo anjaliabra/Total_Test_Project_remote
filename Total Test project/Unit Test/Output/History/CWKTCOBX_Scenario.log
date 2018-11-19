@@ -1,0 +1,9 @@
+
+***************** Output from TTTRUNNR *****************
+
+ STTR043I Initializing simulation environment for: COBOL V4
+ STTR011I totaltest zTargetRunner v170200 on 2018-10-30 03:58.31��������������������������������������
+ STTR012I Options set to EXIT(),STUBS(ON),REPEAT(0),ARGTYPE(��������)
+ CEE0813S Insufficient storage was available to satisfy a get storage (CEECZST) request.
+          From compile unit TTTRUNNR at entry point TTTRUNNR at compile unit offset +0000839E at entry offset +0000839E
+           at address 1F80839E.
